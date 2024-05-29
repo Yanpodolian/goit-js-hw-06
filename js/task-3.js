@@ -1,8 +1,8 @@
 class StringBuilder {
-    // Приватна властивість value
+
     #value;
   
-    // Конструктор класу, що приймає початковий рядок
+    
     constructor(initialValue) {
       this.#value = initialValue;
     }
